@@ -11,4 +11,3 @@ if (!$con) {
 	 trigger_error("error al conectar ".mysqli_connect_error());
 
 }
-
